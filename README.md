@@ -2,7 +2,7 @@
 
 ### AI Product Manager · Founder · Builder
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZaidAzmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidazmi/)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZaidAzmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidazmi/)
 
 **12 years** building products, mostly as a founder or first PM hire. Founded **[KahaniBox](https://www.f6s.com/company/kahanibox#apps)** — **2.5M+ users**, **$1M raised**, top-1% daily engagement. Launched 0→1 products in **5 countries** across mobility, gaming, and e-commerce. Now I build AI the same way — shipped a RAG platform that cut R&D time by **80%** and a voice agent resolving **3k+ queries/month**.
 
