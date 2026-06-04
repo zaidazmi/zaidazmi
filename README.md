@@ -10,7 +10,7 @@
 
 | Project | |
 |---------|---|
-| **[GRIT](https://github.com/zaidazmi/GRIT)** | Closed-loop methodology for shipping AI-generated code — Spec → Test → Build → Review → Harden → Ship |
+| **[GRIT](https://github.com/zaidazmi/GRIT)** | Spec → Test → Build → Review → Harden → Ship. Quality loop for AI-generated code |
 | **[AI-PM-PLAYBOOK](https://github.com/zaidazmi/AI-PM-PLAYBOOK)** | How PMs ship AI features they can stand behind — evals, HITL, launch gates, unit economics |
 | **[asa-copilot](https://github.com/zaidazmi/asa-copilot)** | Apple Search Ads automation — campaigns, bids, keywords, reporting from the CLI |
 | **[CitaYa](https://github.com/zaidazmi/CitaYa)** | 24/7 bot that snags Spanish immigration appointments so you don't have to |
@@ -21,5 +21,3 @@
 
 - **[Noteo](https://apps.apple.com/in/app/ai-note-taker-noteo/id6752323774)** — AI note-taker that records, transcribes, and summarizes
 - **[Lofto](https://apps.apple.com/in/app/lofto-ai-interior-design/id6751567888)** — AI interior design from a photo
-
-Most of my side projects start as a personal grudge. Spain wouldn't give me an immigration appointment, so I shipped a bot that snags one 24/7.
