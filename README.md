@@ -1,6 +1,6 @@
 # Hi, I'm Zaid 👋
 
-### AI Product Manager · Founder · Builder
+### Product · AI · Startups
 
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZaidAzmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidazmi/)
 
@@ -19,8 +19,7 @@
 
 **iOS apps**
 
-[![Noteo on the App Store](https://img.shields.io/badge/Noteo-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/in/app/ai-note-taker-noteo/id6752323774)  AI note-taker — record, transcribe, summarize
-<br>
-[![Lofto on the App Store](https://img.shields.io/badge/Lofto-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/in/app/lofto-ai-interior-design/id6751567888)  AI interior design from a photo
+- **[Noteo](https://apps.apple.com/in/app/ai-note-taker-noteo/id6752323774)** — AI note-taker that records, transcribes, and summarizes
+- **[Lofto](https://apps.apple.com/in/app/lofto-ai-interior-design/id6751567888)** — AI interior design from a photo
 
 Most of my side projects start as a personal grudge. Spain wouldn't give me an immigration appointment, so I shipped a bot that snags one 24/7.
