@@ -19,5 +19,7 @@
 
 **iOS apps**
 
-- **[Noteo](https://apps.apple.com/in/app/ai-note-taker-noteo/id6752323774)** — AI note-taker that records, transcribes, and summarizes
-- **[Lofto](https://apps.apple.com/in/app/lofto-ai-interior-design/id6751567888)** — AI interior design from a photo
+| App | |
+|-----|---|
+| **[Noteo](https://apps.apple.com/in/app/ai-note-taker-noteo/id6752323774)** | AI note-taker that records, transcribes, and summarizes |
+| **[Lofto](https://apps.apple.com/in/app/lofto-ai-interior-design/id6751567888)** | AI interior design from a photo |
