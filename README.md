@@ -11,7 +11,6 @@
 - **[GRIT](https://github.com/zaidazmi/GRIT)** — Spec → Test → Build → Review → Harden → Ship. Quality loop for AI-generated code
 - **[AI-PM-PLAYBOOK](https://github.com/zaidazmi/AI-PM-PLAYBOOK)** — How PMs ship AI features they can stand behind: evals, HITL, launch gates, unit economics
 - **[asa-copilot](https://github.com/zaidazmi/asa-copilot)** — Apple Search Ads automation: campaigns, bids, keywords, reporting from the CLI
-- **[CitaYa](https://github.com/zaidazmi/CitaYa)** — 24/7 bot that snags Spanish immigration appointments so you don't have to
 - **[polyteller](https://github.com/zaidazmi/polyteller)** — Chrome extension for Polymarket traders: countdowns, reminders, trade confirmations
 - **[open-waitlist](https://github.com/zaidazmi/open-waitlist)** — Drop-in waitlist with referral links and dynamic ranking
 
