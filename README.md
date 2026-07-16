@@ -8,6 +8,7 @@
 
 **Open source**
 
+- **[Wiretap](https://github.com/zaidazmi/wiretap)** — macOS menu bar app that records system audio and microphone into one local file—no cloud, accounts, or virtual audio driver
 - **[GRIT](https://github.com/zaidazmi/GRIT)** — Spec → Test → Build → Review → Harden → Ship. Quality loop for AI-generated code
 - **[AI-PM-PLAYBOOK](https://github.com/zaidazmi/AI-PM-PLAYBOOK)** — How PMs ship AI features they can stand behind: evals, HITL, launch gates, unit economics
 - **[asa-copilot](https://github.com/zaidazmi/asa-copilot)** — Apple Search Ads automation: campaigns, bids, keywords, reporting from the CLI
