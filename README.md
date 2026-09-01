@@ -8,7 +8,6 @@
 
 **Open source**
 
-- **[Wiretap](https://github.com/zaidazmi/wiretap)** — macOS menu bar recorder for system audio and mic
 - **[GRIT](https://github.com/zaidazmi/GRIT)** — Spec → Test → Build → Review → Harden → Ship. Quality loop for AI-generated code
 - **[polyteller](https://github.com/zaidazmi/polyteller)** — Chrome extension for Polymarket traders: countdowns, reminders, trade confirmations
 - **[asa-copilot](https://github.com/zaidazmi/asa-copilot)** — Apple Search Ads automation: campaigns, bids, keywords, reporting from the CLI
